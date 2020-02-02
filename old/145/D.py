@@ -53,6 +53,8 @@ if ll<0:
     owari()
 if ll%3 !=0:
     owari()
+
+
 k=int(kk//3)
 l=int(ll//3)
 print(diff(junretsu(k+l,k),facto(l)))
