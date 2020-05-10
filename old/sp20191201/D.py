@@ -1,4 +1,5 @@
 import itertools
+
 N=int(input())
 S=[int(thing) for thing in list(input())]
 kes=N-3
